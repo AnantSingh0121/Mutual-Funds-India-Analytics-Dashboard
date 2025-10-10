@@ -1,0 +1,26 @@
+{
+    "id": "085BDE03",
+    "path": "~/MF Dashboard/config/config.R",
+    "project_path": "config/config.R",
+    "type": "r_source",
+    "hash": "1279901654",
+    "contents": "",
+    "dirty": false,
+    "created": 1765123353376.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "365,1",
+        "scrollLine": "343"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1765123592,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1765123592513,
+    "read_only": false,
+    "read_only_alternatives": []
+}

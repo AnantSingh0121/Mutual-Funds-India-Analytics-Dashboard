@@ -1,0 +1,26 @@
+{
+    "id": "751A0C05",
+    "path": "~/MF Dashboard/merged_mutual_funds.csv",
+    "project_path": "merged_mutual_funds.csv",
+    "type": "text",
+    "hash": "3791976421",
+    "contents": "",
+    "dirty": false,
+    "created": 1765109172447.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "8,74",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1765108758,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1765108758,
+    "read_only": false,
+    "read_only_alternatives": []
+}

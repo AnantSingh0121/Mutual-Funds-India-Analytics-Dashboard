@@ -1,0 +1,26 @@
+{
+    "id": "EBD77310",
+    "path": "~/MF Dashboard/shiny_dashboard.R",
+    "project_path": "shiny_dashboard.R",
+    "type": "r_source",
+    "hash": "3798504449",
+    "contents": "",
+    "dirty": false,
+    "created": 1765109059432.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1970,0",
+        "scrollLine": "1952"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1765122368,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1765122368247,
+    "read_only": false,
+    "read_only_alternatives": []
+}

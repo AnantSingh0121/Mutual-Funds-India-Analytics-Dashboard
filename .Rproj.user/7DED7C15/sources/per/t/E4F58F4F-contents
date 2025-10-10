@@ -1,0 +1,24 @@
+packages <- c(
+  "shiny",
+  "shinydashboard",
+  "shinyWidgets",
+  "plotly",
+  "dplyr",
+  "ggplot2",
+  "DT",
+  "scales",
+  "lubridate",
+  "gridExtra",
+  "tidyr",
+  "reactable",
+  "openxlsx"
+)
+
+for (pkg in packages) {
+  if (!require(pkg, character.only = TRUE)) {
+    install.packages(pkg)
+    library(pkg, character.only = TRUE)
+  }
+}
+
+cat("All packages installed successfully!\n")
